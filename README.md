@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate computer science student in Monash University</h3>
 
-- 🌱 Courses i'm currently taking  
+- 🌱 Units i'm currently taking  
 **FIT2004 Algorithms and data structures**  
 **FIT2081 Mobile application development**  
 **FIT2099 Object oriented design and implementation**    
